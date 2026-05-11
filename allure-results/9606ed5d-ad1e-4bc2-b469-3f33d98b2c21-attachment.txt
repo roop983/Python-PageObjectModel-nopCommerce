@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_AdminLogin.py:28 ****************Test_Verification_Login_Page**************

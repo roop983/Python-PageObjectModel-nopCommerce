@@ -1,0 +1,2 @@
+[32mINFO    [0m undetected_chromedriver.patcher:patcher.py:346 patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+[32mINFO    [0m root:test_AdminLogin.py:19 ****************Test_Verification_Login_Page_Title**************

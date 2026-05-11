@@ -1,0 +1,988 @@
+2026-03-25 18:52:41:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-25 18:52:42:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-25 18:52:42:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-25 18:52:56:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-25 18:56:12:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-25 18:56:14:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-25 18:56:15:INFO:****************Test_Verification_Login_Page**************
+2026-03-25 18:56:27:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-25 18:56:39:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-26 10:48:18:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-26 10:48:25:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-26 10:48:27:INFO:****************Test_Verification_Login_Page**************
+2026-03-26 10:48:38:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-26 10:48:50:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-26 10:50:32:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-26 10:50:33:INFO:****************Test_Verification_Login_Page**************
+2026-03-26 10:50:50:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-26 10:51:01:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-26 11:04:36:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-26 11:04:42:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-26 11:04:45:INFO:****************Test_Verification_Login_Page**************
+2026-03-26 11:04:58:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-26 11:05:10:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-26 11:37:46:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-26 11:37:50:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-26 11:37:51:INFO:****************Test_Verification_Login_Page**************
+2026-03-26 11:38:02:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-26 11:38:13:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-26 13:45:36:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-26 13:45:39:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-26 13:45:40:INFO:****************Test_Verification_Login_Page**************
+2026-03-26 13:45:52:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-26 13:46:03:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-26 16:34:43:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-26 16:34:46:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-26 16:34:47:INFO:****************Test_Verification_Login_Page**************
+2026-03-26 16:34:59:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-26 16:35:10:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-26 16:46:31:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-26 16:46:33:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-26 16:46:34:INFO:****************Test_Verification_Login_Page**************
+2026-03-26 16:46:45:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-26 16:46:57:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-27 14:43:39:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-27 14:43:42:INFO:****************Test_Verification_Login_Page_Title**************
+2026-03-27 14:43:44:INFO:****************Test_Verification_Login_Page**************
+2026-03-27 14:43:57:INFO:****************Test_Verification_Dashboard_Header**************
+2026-03-27 14:44:10:INFO:****************Test_Verification_Invalid_Login_Credentials**************
+2026-03-30 10:44:52:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 10:44:56:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:45:16:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 10:45:18:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:46:38:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 10:46:40:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:47:05:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 10:47:07:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:52:27:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 10:52:29:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:57:58:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 10:58:01:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:59:04:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 10:59:07:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:59:21:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 10:59:47:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:00:11:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:00:31:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:00:34:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:00:51:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:00:53:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:04:10:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:04:13:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:05:31:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:05:33:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:06:31:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:06:33:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:33:13:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:33:16:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:37:04:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:37:06:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:38:03:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:38:06:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:39:18:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:39:20:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:39:53:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:39:55:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:40:08:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:40:10:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:47:04:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:47:17:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:47:20:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:47:53:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:47:55:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 11:57:53:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 11:57:55:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:04:18:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:04:21:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:05:01:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:05:03:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:07:15:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:07:17:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:09:00:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:09:03:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:10:38:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:10:40:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:12:40:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:12:42:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:12:49:INFO:Test data is passed
+2026-03-30 12:27:22:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:27:25:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:27:31:INFO:Test data is passed
+2026-03-30 12:27:42:INFO:Test data is passed
+2026-03-30 12:27:53:INFO:Test data is failed
+2026-03-30 12:28:52:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:28:54:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:29:00:INFO:Test data is passed
+2026-03-30 12:29:11:INFO:Test data is failed
+2026-03-30 12:31:05:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:31:07:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:31:14:INFO:Test data is passed
+2026-03-30 12:31:24:INFO:Test data is failed
+2026-03-30 12:33:40:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:33:43:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:33:49:INFO:Test data is passed
+2026-03-30 12:34:00:INFO:Test data is failed
+2026-03-30 12:48:01:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:48:03:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:48:10:INFO:Test data is passed
+2026-03-30 12:48:21:INFO:Test data is failed
+2026-03-30 12:57:35:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 12:57:37:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 12:57:43:INFO:Test data is passed
+2026-03-30 12:57:54:INFO:Test data is failed
+2026-03-30 19:42:34:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 19:42:38:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 19:42:44:INFO:Test data is passed
+2026-03-30 19:42:55:INFO:Negative Test data is passed
+2026-03-30 19:43:01:INFO:Negative Test data is passed
+2026-03-30 19:43:01:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-30 19:56:23:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 19:56:27:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 19:56:39:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 19:56:42:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 19:56:48:INFO:Test data is passed
+2026-03-30 19:56:59:INFO:Negative Test data is passed
+2026-03-30 19:57:04:INFO:Negative Test data is passed
+2026-03-30 19:57:04:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-30 20:14:19:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-30 20:14:21:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-30 20:14:27:INFO:Test data is passed
+2026-03-30 20:14:38:INFO:Negative Test data is passed
+2026-03-30 20:14:44:INFO:Negative Test data is passed
+2026-03-30 20:14:44:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-31 11:10:23:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-31 11:10:26:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-31 11:10:32:INFO:Test data is passed
+2026-03-31 11:10:43:INFO:Negative Test data is passed
+2026-03-31 11:10:49:INFO:Negative Test data is passed
+2026-03-31 11:10:49:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-31 11:16:00:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-31 11:16:03:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-31 11:16:20:INFO:Test data is passed
+2026-03-31 11:16:41:INFO:Negative Test data is passed
+2026-03-31 11:16:57:INFO:Negative Test data is passed
+2026-03-31 11:16:57:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-31 11:17:32:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-31 11:17:34:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-31 11:17:50:INFO:Test data is passed
+2026-03-31 11:18:11:INFO:Negative Test data is passed
+2026-03-31 11:18:27:INFO:Negative Test data is passed
+2026-03-31 11:18:27:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-31 11:29:38:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-31 11:29:41:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-31 11:29:59:INFO:Test data is passed
+2026-03-31 11:30:20:INFO:Negative Test data is passed
+2026-03-31 11:30:36:INFO:Negative Test data is passed
+2026-03-31 11:30:36:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-31 11:32:52:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-31 11:32:54:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-31 11:33:16:INFO:Test data is passed
+2026-03-31 11:33:42:INFO:Negative Test data is passed
+2026-03-31 11:34:02:INFO:Negative Test data is passed
+2026-03-31 11:34:02:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-31 13:21:16:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-31 13:21:19:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-31 13:21:41:INFO:Test data is passed
+2026-03-31 13:22:07:INFO:Negative Test data is passed
+2026-03-31 13:22:28:INFO:Negative Test data is passed
+2026-03-31 13:22:28:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-03-31 13:23:17:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-03-31 13:23:19:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-03-31 13:23:42:INFO:Test data is passed
+2026-03-31 13:24:08:INFO:Negative Test data is passed
+2026-03-31 13:24:28:INFO:Negative Test data is passed
+2026-03-31 13:24:28:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-04-01 11:52:38:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 11:52:40:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 11:53:26:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 11:53:29:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 11:58:15:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 11:58:19:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 11:58:31:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 11:58:33:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:02:54:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:02:57:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:03:42:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:03:44:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:04:25:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:04:28:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:05:16:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:05:18:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:42:36:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:42:39:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:46:31:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:46:33:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:48:32:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:48:35:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:52:00:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:52:03:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:52:37:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:52:39:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:53:47:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:53:49:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:55:10:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:55:12:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:55:36:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 12:55:38:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 12:56:00:INFO:Test data is passed
+2026-04-01 12:56:26:INFO:Negative Test data is passed
+2026-04-01 12:56:47:INFO:Negative Test data is passed
+2026-04-01 12:56:47:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-04-01 13:35:54:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 13:35:58:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 13:36:09:INFO:Test data is passed
+2026-04-01 13:36:25:INFO:Negative Test data is passed
+2026-04-01 13:36:36:INFO:Negative Test data is passed
+2026-04-01 13:36:36:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-04-01 13:38:29:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 13:38:32:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 13:38:43:INFO:Negative Test data is passed
+2026-04-01 13:38:43:ERROR:Testcase failed for row 0: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-04-01 13:38:48:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 13:38:50:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 13:39:02:INFO:Negative Test data is passed
+2026-04-01 13:39:02:ERROR:Testcase failed for row 0: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-04-01 19:25:33:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 19:25:36:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 19:25:36:ERROR:Testcase failed for row 0: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Stacktrace:
+0   undetected_chromedriver             0x0000000100edcf38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000100ed46ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x00000001008df995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x00000001008b2dc8 undetected_chromedriver + 269768
+4   undetected_chromedriver             0x0000000100961b48 undetected_chromedriver + 985928
+5   undetected_chromedriver             0x000000010097b868 undetected_chromedriver + 1091688
+6   undetected_chromedriver             0x0000000100926307 undetected_chromedriver + 742151
+7   undetected_chromedriver             0x00000001009270e1 undetected_chromedriver + 745697
+8   undetected_chromedriver             0x0000000100e9676c undetected_chromedriver + 6444908
+9   undetected_chromedriver             0x0000000100e9ab62 undetected_chromedriver + 6462306
+10  undetected_chromedriver             0x0000000100e7793c undetected_chromedriver + 6318396
+11  undetected_chromedriver             0x0000000100e9b5b8 undetected_chromedriver + 6464952
+12  undetected_chromedriver             0x0000000100e66ce0 undetected_chromedriver + 6249696
+13  undetected_chromedriver             0x0000000100ec17e8 undetected_chromedriver + 6621160
+14  undetected_chromedriver             0x0000000100ec19a2 undetected_chromedriver + 6621602
+15  undetected_chromedriver             0x0000000100ed42f1 undetected_chromedriver + 6697713
+16  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-01 19:26:11:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-01 19:26:13:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-04-01 19:26:26:INFO:Test data is passed
+2026-04-01 19:26:42:INFO:Negative Test data is passed
+2026-04-01 19:26:53:INFO:Negative Test data is passed
+2026-04-01 19:26:53:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-04-02 14:48:27:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 14:48:33:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:02:37:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:02:41:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:04:52:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:04:54:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:07:30:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:07:33:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:48:21:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:48:24:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:48:50:ERROR:Testcase failed for row 0: Message: invalid element state
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104e12f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000104e0a6ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000104815790 undetected_chromedriver + 452496
+3   undetected_chromedriver             0x0000000104860536 undetected_chromedriver + 759094
+4   undetected_chromedriver             0x000000010485db08 undetected_chromedriver + 748296
+5   undetected_chromedriver             0x00000001048b1ea5 undetected_chromedriver + 1093285
+6   undetected_chromedriver             0x000000010485c307 undetected_chromedriver + 742151
+7   undetected_chromedriver             0x000000010485d0e1 undetected_chromedriver + 745697
+8   undetected_chromedriver             0x0000000104dcc76c undetected_chromedriver + 6444908
+9   undetected_chromedriver             0x0000000104dd0b62 undetected_chromedriver + 6462306
+10  undetected_chromedriver             0x0000000104dad93c undetected_chromedriver + 6318396
+11  undetected_chromedriver             0x0000000104dd15b8 undetected_chromedriver + 6464952
+12  undetected_chromedriver             0x0000000104d9cce0 undetected_chromedriver + 6249696
+13  undetected_chromedriver             0x0000000104df77e8 undetected_chromedriver + 6621160
+14  undetected_chromedriver             0x0000000104df79a2 undetected_chromedriver + 6621602
+15  undetected_chromedriver             0x0000000104e0a2f1 undetected_chromedriver + 6697713
+16  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 15:49:25:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:49:28:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:49:54:ERROR:Testcase failed for row 0: Message: invalid element state
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+0   undetected_chromedriver             0x0000000100a06f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x00000001009fe6ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000100409790 undetected_chromedriver + 452496
+3   undetected_chromedriver             0x0000000100454536 undetected_chromedriver + 759094
+4   undetected_chromedriver             0x0000000100451b08 undetected_chromedriver + 748296
+5   undetected_chromedriver             0x00000001004a5ea5 undetected_chromedriver + 1093285
+6   undetected_chromedriver             0x0000000100450307 undetected_chromedriver + 742151
+7   undetected_chromedriver             0x00000001004510e1 undetected_chromedriver + 745697
+8   undetected_chromedriver             0x00000001009c076c undetected_chromedriver + 6444908
+9   undetected_chromedriver             0x00000001009c4b62 undetected_chromedriver + 6462306
+10  undetected_chromedriver             0x00000001009a193c undetected_chromedriver + 6318396
+11  undetected_chromedriver             0x00000001009c55b8 undetected_chromedriver + 6464952
+12  undetected_chromedriver             0x0000000100990ce0 undetected_chromedriver + 6249696
+13  undetected_chromedriver             0x00000001009eb7e8 undetected_chromedriver + 6621160
+14  undetected_chromedriver             0x00000001009eb9a2 undetected_chromedriver + 6621602
+15  undetected_chromedriver             0x00000001009fe2f1 undetected_chromedriver + 6697713
+16  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 15:50:24:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:50:27:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:50:54:ERROR:Testcase failed for row 0: Message: invalid element state
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+0   undetected_chromedriver             0x0000000103337f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x000000010332f6ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000102d3a790 undetected_chromedriver + 452496
+3   undetected_chromedriver             0x0000000102d85536 undetected_chromedriver + 759094
+4   undetected_chromedriver             0x0000000102d82b08 undetected_chromedriver + 748296
+5   undetected_chromedriver             0x0000000102dd6ea5 undetected_chromedriver + 1093285
+6   undetected_chromedriver             0x0000000102d81307 undetected_chromedriver + 742151
+7   undetected_chromedriver             0x0000000102d820e1 undetected_chromedriver + 745697
+8   undetected_chromedriver             0x00000001032f176c undetected_chromedriver + 6444908
+9   undetected_chromedriver             0x00000001032f5b62 undetected_chromedriver + 6462306
+10  undetected_chromedriver             0x00000001032d293c undetected_chromedriver + 6318396
+11  undetected_chromedriver             0x00000001032f65b8 undetected_chromedriver + 6464952
+12  undetected_chromedriver             0x00000001032c1ce0 undetected_chromedriver + 6249696
+13  undetected_chromedriver             0x000000010331c7e8 undetected_chromedriver + 6621160
+14  undetected_chromedriver             0x000000010331c9a2 undetected_chromedriver + 6621602
+15  undetected_chromedriver             0x000000010332f2f1 undetected_chromedriver + 6697713
+16  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 15:51:31:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:51:33:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:52:04:ERROR:Testcase failed for row 0: Message: invalid element state
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104a2af38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000104a226ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x000000010442d790 undetected_chromedriver + 452496
+3   undetected_chromedriver             0x0000000104478536 undetected_chromedriver + 759094
+4   undetected_chromedriver             0x0000000104475b08 undetected_chromedriver + 748296
+5   undetected_chromedriver             0x00000001044c9ea5 undetected_chromedriver + 1093285
+6   undetected_chromedriver             0x0000000104474307 undetected_chromedriver + 742151
+7   undetected_chromedriver             0x00000001044750e1 undetected_chromedriver + 745697
+8   undetected_chromedriver             0x00000001049e476c undetected_chromedriver + 6444908
+9   undetected_chromedriver             0x00000001049e8b62 undetected_chromedriver + 6462306
+10  undetected_chromedriver             0x00000001049c593c undetected_chromedriver + 6318396
+11  undetected_chromedriver             0x00000001049e95b8 undetected_chromedriver + 6464952
+12  undetected_chromedriver             0x00000001049b4ce0 undetected_chromedriver + 6249696
+13  undetected_chromedriver             0x0000000104a0f7e8 undetected_chromedriver + 6621160
+14  undetected_chromedriver             0x0000000104a0f9a2 undetected_chromedriver + 6621602
+15  undetected_chromedriver             0x0000000104a222f1 undetected_chromedriver + 6697713
+16  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 15:52:26:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:52:28:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:52:58:ERROR:Testcase failed for row 0: Message: invalid element state
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102c5ef38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000102c566ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000102661790 undetected_chromedriver + 452496
+3   undetected_chromedriver             0x00000001026ac536 undetected_chromedriver + 759094
+4   undetected_chromedriver             0x00000001026a9b08 undetected_chromedriver + 748296
+5   undetected_chromedriver             0x00000001026fdea5 undetected_chromedriver + 1093285
+6   undetected_chromedriver             0x00000001026a8307 undetected_chromedriver + 742151
+7   undetected_chromedriver             0x00000001026a90e1 undetected_chromedriver + 745697
+8   undetected_chromedriver             0x0000000102c1876c undetected_chromedriver + 6444908
+9   undetected_chromedriver             0x0000000102c1cb62 undetected_chromedriver + 6462306
+10  undetected_chromedriver             0x0000000102bf993c undetected_chromedriver + 6318396
+11  undetected_chromedriver             0x0000000102c1d5b8 undetected_chromedriver + 6464952
+12  undetected_chromedriver             0x0000000102be8ce0 undetected_chromedriver + 6249696
+13  undetected_chromedriver             0x0000000102c437e8 undetected_chromedriver + 6621160
+14  undetected_chromedriver             0x0000000102c439a2 undetected_chromedriver + 6621602
+15  undetected_chromedriver             0x0000000102c562f1 undetected_chromedriver + 6697713
+16  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 15:54:01:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:54:03:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:54:54:ERROR:Testcase failed for row 0: Message: Could not locate element with visible text:  Guests; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-04-02 15:57:20:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 15:57:22:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 15:58:13:ERROR:Testcase failed for row 0: Message: Could not locate element with visible text:  Guests; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-04-02 16:00:02:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 16:00:04:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 16:00:56:ERROR:Testcase failed for row 0: Message: Could not locate element with visible text:  Guests; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-04-02 16:04:25:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 16:04:28:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 16:05:20:ERROR:Testcase failed for row 0: Message: Could not locate element with visible text:  Guests; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2026-04-02 16:09:10:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 16:09:13:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 16:10:25:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 16:10:27:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 16:12:37:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 16:12:40:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 17:26:42:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 17:26:48:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 17:28:08:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001033eff38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x00000001033e76ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000102df2995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000102e45c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000102e45fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000102e91da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000102e8eea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000102e39307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x0000000102e3a0e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x00000001033a976c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x00000001033adb62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x000000010338a93c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x00000001033ae5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000103379ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x00000001033d47e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x00000001033d49a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x00000001033e72f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 17:42:30:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 17:42:34:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 17:43:02:ERROR:Testcase failed for row 0: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001015dff38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x00000001015d76ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000100fe2995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000101035c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000101035fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000101081da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x000000010107eea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000101029307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x000000010102a0e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x000000010159976c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x000000010159db62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x000000010157a93c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x000000010159e5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000101569ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x00000001015c47e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x00000001015c49a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x00000001015d72f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 17:44:25:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 17:44:27:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 17:45:49:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000102bc9f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000102bc16ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x00000001025cc995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x000000010261fc92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x000000010261ffe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x000000010266bda4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000102668ea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000102613307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x00000001026140e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000102b8376c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000102b87b62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000102b6493c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000102b885b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000102b53ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000102bae7e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000102bae9a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000102bc12f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 17:49:33:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 17:49:36:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 17:51:08:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000104b9bf38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000104b936ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x000000010459e995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x00000001045f1c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x00000001045f1fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x000000010463dda4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x000000010463aea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x00000001045e5307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x00000001045e60e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000104b5576c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000104b59b62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000104b3693c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000104b5a5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000104b25ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000104b807e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000104b809a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000104b932f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-02 17:56:41:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-02 17:56:43:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-02 17:58:16:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001033a7f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x000000010339f6ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000102daa995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000102dfdc92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000102dfdfe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000102e49da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000102e46ea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000102df1307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x0000000102df20e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x000000010336176c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000103365b62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x000000010334293c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x00000001033665b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000103331ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x000000010338c7e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x000000010338c9a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x000000010339f2f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-13 10:46:35:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 10:46:41:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 10:48:25:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 10:48:29:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 10:50:01:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x000000010314ef38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x00000001031466ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000102b51995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000102ba4c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000102ba4fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000102bf0da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000102bedea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000102b98307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x0000000102b990e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x000000010310876c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x000000010310cb62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x00000001030e993c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x000000010310d5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x00000001030d8ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x00000001031337e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x00000001031339a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x00000001031462f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-13 12:23:09:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 12:23:14:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 12:27:35:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 12:27:38:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 12:34:26:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000104c68f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000104c606ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x000000010466b995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x00000001046bec92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x00000001046befe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x000000010470ada4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000104707ea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x00000001046b2307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x00000001046b30e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000104c2276c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000104c26b62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000104c0393c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000104c275b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000104bf2ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000104c4d7e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000104c4d9a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000104c602f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-13 12:39:04:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 12:39:09:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 12:39:31:ERROR:Testcase failed for row 0: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001013a6f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x000000010139e6ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000100da9995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000100dfcc92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000100dfcfe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000100e48da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000100e45ea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000100df0307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x0000000100df10e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x000000010136076c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000101364b62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x000000010134193c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x00000001013655b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000101330ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x000000010138b7e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x000000010138b9a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x000000010139e2f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-13 12:42:46:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 12:42:50:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 12:49:26:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 12:49:28:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 12:50:43:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x000000010113cf38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x00000001011346ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000100b3f995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000100b92c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000100b92fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000100bdeda4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000100bdbea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000100b86307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x0000000100b870e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x00000001010f676c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x00000001010fab62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x00000001010d793c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x00000001010fb5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x00000001010c6ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x00000001011217e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x00000001011219a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x00000001011342f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-13 14:47:26:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 14:47:30:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 14:48:39:ERROR:Testcase failed for row 1: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000104711f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x00000001047096ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000104114995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000104167c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000104167fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x00000001041b3da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x00000001041b0ea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x000000010415b307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x000000010415c0e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x00000001046cb76c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x00000001046cfb62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x00000001046ac93c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x00000001046d05b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x000000010469bce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x00000001046f67e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x00000001046f69a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x00000001047092f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-13 14:51:17:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 14:51:23:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-13 14:52:47:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-13 14:52:50:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-14 11:57:24:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-14 11:57:27:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-14 11:58:26:ERROR:Testcase failed for row 0: 'error_message'
+2026-04-14 12:36:09:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-14 12:36:13:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-14 12:37:11:ERROR:Testcase failed for row 0: argument of type 'float' is not iterable
+2026-04-14 14:07:48:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-14 14:07:53:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-14 14:08:52:ERROR:Testcase failed for row 0
+Traceback (most recent call last):
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/tests/test_Customers_data_driven.py", line 73, in test_Customers_data_driven
+    if "NA" not in row["error_message"]:
+TypeError: argument of type 'float' is not iterable
+2026-04-14 14:23:25:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-14 14:23:28:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-14 14:24:27:ERROR:Testcase failed for row 0
+Traceback (most recent call last):
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/tests/test_Customers_data_driven.py", line 74, in test_Customers_data_driven
+    assert row["error_message"] == self.CustomersPage.get_element_text(self.CustomersPage.error_message_customer_roles)
+AssertionError: assert nan == 'Email is already registered'
+ +  where 'Email is already registered' = get_element_text(('css selector', 'div.validation-summary-errors > ul > li'))
+ +    where get_element_text = <pages.CustomersPage.CustomersPage object at 0x12522ff40>.get_element_text
+ +      where <pages.CustomersPage.CustomersPage object at 0x12522ff40> = <tests.test_Customers_data_driven.Test_AdminLogin_data_driven object at 0x12522f6d0>.CustomersPage
+ +    and   ('css selector', 'div.validation-summary-errors > ul > li') = <pages.CustomersPage.CustomersPage object at 0x12522ff40>.error_message_customer_roles
+ +      where <pages.CustomersPage.CustomersPage object at 0x12522ff40> = <tests.test_Customers_data_driven.Test_AdminLogin_data_driven object at 0x12522f6d0>.CustomersPage
+2026-04-14 14:34:07:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-14 14:34:10:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-14 14:35:19:ERROR:Testcase failed for row 0
+Traceback (most recent call last):
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/tests/test_Customers_data_driven.py", line 74, in test_Customers_data_driven
+    assert row["error_message"] == self.CustomersPage.get_element_text(self.CustomersPage.error_message_customer_roles)
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/pages/BasePage.py", line 87, in get_element_text
+    element = WebDriverWait(self.driver, 10).until(ec.visibility_of_element_located(by_locator))
+  File "/Users/rupalidash/PycharmProjects/Selenium-Python-Practice/venv/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000104af3f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000104aeb6ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x00000001044f6995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000104549c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000104549fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000104595da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000104592ea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x000000010453d307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x000000010453e0e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000104aad76c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000104ab1b62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000104a8e93c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000104ab25b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000104a7dce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000104ad87e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000104ad89a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000104aeb2f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-14 14:42:29:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-14 14:42:33:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-14 14:43:42:ERROR:Testcase failed for row 1
+Traceback (most recent call last):
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/tests/test_Customers_data_driven.py", line 44, in test_Customers_data_driven
+    self.CustomersPage.do_click(self.CustomersPage.customers_submenu)
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/pages/BasePage.py", line 36, in do_click
+    ele = wait.until(ec.element_to_be_clickable(by_locator))
+  File "/Users/rupalidash/PycharmProjects/Selenium-Python-Practice/venv/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001051cdf38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x00000001051c56ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000104bd0995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000104c23c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000104c23fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000104c6fda4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000104c6cea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000104c17307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x0000000104c180e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x000000010518776c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x000000010518bb62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x000000010516893c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x000000010518c5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000105157ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x00000001051b27e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x00000001051b29a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x00000001051c52f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-04-14 14:52:27:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-14 14:52:31:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-15 11:26:52:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-15 11:26:57:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 12:19:10:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 12:19:14:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 12:21:47:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 12:21:58:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 13:05:55:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 13:05:58:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 13:06:57:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 13:07:08:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:10:16:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 14:11:19:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 14:11:29:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:11:29:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:11:30:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:55:06:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 14:55:15:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:55:16:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:55:16:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:55:57:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 14:56:06:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:56:58:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 14:57:20:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 15:00:01:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 15:00:10:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 15:01:02:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 15:01:13:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 15:32:30:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-04-17 15:32:38:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 15:33:30:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-04-17 15:33:41:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:00:16:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-01 11:00:44:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:01:26:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:01:57:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:02:08:ERROR:Test failed
+Traceback (most recent call last):
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/tests/test_Customers_data_driven.py", line 39, in test_Customers_data_driven
+    customersPage.do_click(customersPage.add_new_customer)
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/pages/BasePage.py", line 36, in do_click
+    ele = wait.until(ec.element_to_be_clickable(by_locator))
+  File "/Users/rupalidash/PycharmProjects/Selenium-Python-Practice/venv/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000104fedf38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000104fe56ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x00000001049f0995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000104a43c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000104a43fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000104a8fda4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000104a8cea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000104a37307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x0000000104a380e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000104fa776c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000104fabb62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000104f8893c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000104fac5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000104f77ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000104fd27e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000104fd29a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000104fe52f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-05-01 11:16:48:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-01 11:17:10:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:17:58:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:18:34:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:19:26:ERROR:Test failed
+Traceback (most recent call last):
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/tests/test_Customers_data_driven.py", line 60, in test_Customers_data_driven
+    actual_error = customersPage.get_element_text(customersPage.error_message_customer_roles)
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/pages/BasePage.py", line 87, in get_element_text
+    element = WebDriverWait(self.driver, 10).until(ec.visibility_of_element_located(by_locator))
+  File "/Users/rupalidash/PycharmProjects/Selenium-Python-Practice/venv/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000100cddf38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000100cd56ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x00000001006e0995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x0000000100733c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x0000000100733fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x000000010077fda4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x000000010077cea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x0000000100727307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x00000001007280e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000100c9776c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000100c9bb62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000100c7893c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000100c9c5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000100c67ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000100cc27e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000100cc29a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000100cd52f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-05-01 11:24:04:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-01 11:24:26:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:25:28:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-01 11:25:48:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:26:35:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:27:12:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:27:53:ERROR:Test failed
+Traceback (most recent call last):
+  File "/Users/rupalidash/PycharmProjects/PageObjectModel-nopCommerce/tests/test_Customers_data_driven.py", line 64, in test_Customers_data_driven
+    assert  actual_error == data["error_message"]
+AssertionError: assert 'Email is already registered' == 'The email ad...lready in use'
+  
+  [0m[91m- The email address is already in use[39;49;00m[90m[39;49;00m
+  [92m+ Email is already registered[39;49;00m[90m[39;49;00m
+2026-05-01 11:29:11:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-01 11:29:31:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:30:18:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 11:30:55:INFO:****************Test_Verification_Customers_Page_Data_Driven**************
+2026-05-01 12:37:02:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-01 12:37:14:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-05-01 12:37:25:ERROR:Testcase failed for row 0: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000102c80f38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000102c786ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000102683995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x00000001026d6c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x00000001026d6fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000102722da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x000000010271fea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x00000001026ca307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x00000001026cb0e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000102c3a76c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000102c3eb62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000102c1b93c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000102c3f5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000102c0ace0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000102c657e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000102c659a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000102c782f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-05-05 11:19:45:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-05 11:19:56:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-05-05 11:20:07:ERROR:Testcase failed for row 0: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000104f8ff38 undetected_chromedriver + 6733624
+1   undetected_chromedriver             0x0000000104f876ea undetected_chromedriver + 6698730
+2   undetected_chromedriver             0x0000000104992995 undetected_chromedriver + 453013
+3   undetected_chromedriver             0x00000001049e5c92 undetected_chromedriver + 793746
+4   undetected_chromedriver             0x00000001049e5fe1 undetected_chromedriver + 794593
+5   undetected_chromedriver             0x0000000104a31da4 undetected_chromedriver + 1105316
+6   undetected_chromedriver             0x0000000104a2eea5 undetected_chromedriver + 1093285
+7   undetected_chromedriver             0x00000001049d9307 undetected_chromedriver + 742151
+8   undetected_chromedriver             0x00000001049da0e1 undetected_chromedriver + 745697
+9   undetected_chromedriver             0x0000000104f4976c undetected_chromedriver + 6444908
+10  undetected_chromedriver             0x0000000104f4db62 undetected_chromedriver + 6462306
+11  undetected_chromedriver             0x0000000104f2a93c undetected_chromedriver + 6318396
+12  undetected_chromedriver             0x0000000104f4e5b8 undetected_chromedriver + 6464952
+13  undetected_chromedriver             0x0000000104f19ce0 undetected_chromedriver + 6249696
+14  undetected_chromedriver             0x0000000104f747e8 undetected_chromedriver + 6621160
+15  undetected_chromedriver             0x0000000104f749a2 undetected_chromedriver + 6621602
+16  undetected_chromedriver             0x0000000104f872f1 undetected_chromedriver + 6697713
+17  libsystem_pthread.dylib             0x00007ff8153e94e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8153e4f6b thread_start + 15
+
+2026-05-05 11:24:22:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-05 11:24:31:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-05-05 11:27:01:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2026-05-05 11:27:04:INFO:****************Test_Verification_Login_Page_Data_Driven**************
+2026-05-05 11:27:11:INFO:Test data is passed
+2026-05-05 11:27:22:INFO:Negative Test data is passed
+2026-05-05 11:27:27:INFO:Negative Test data is passed
+2026-05-05 11:27:27:ERROR:Testcase failed for row 2: assert 'No customer account found' == 'The credenti...are incorrect'
+  
+  [0m[91m- The credentials provided are incorrect[39;49;00m[90m[39;49;00m
+  [92m+ No customer account found[39;49;00m[90m[39;49;00m
+2026-05-05 11:28:42:INFO:patching driver executable /Users/rupalidash/Library/Application Support/undetected_chromedriver/undetected_chromedriver
